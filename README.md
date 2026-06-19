@@ -1,2 +1,2 @@
-# emulator
-emulator
+目前正在搜集各种html的游戏
+欢迎大家一起投稿
